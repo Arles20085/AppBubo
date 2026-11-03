@@ -1,4 +1,4 @@
-package org.example.appbubo;
+package org.example.appbubo.servlets;
 
 import java.io.*;
 

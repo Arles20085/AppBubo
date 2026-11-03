@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>JSP - Hello World</title>
+  <link rel="stylesheet" href="styles.css"
+  <title class="title"> App Bubo - Tickets </title>
 </head>
 <body>
 <h1><%= "Hello World!" %></h1>
