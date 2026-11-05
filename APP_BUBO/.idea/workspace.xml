@@ -11,7 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="33ed3f98-0992-466f-a909-fa96f1737041" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/appbubo/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/appbubo/servlets/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Buba/index_buba.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Buba_admin/index_buba.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Bubo/index_buba.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Bubo_client/index_buba.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,18 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Arles20085"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Arles20085&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Arles20085/AppBubo.git",
-    "accountId": "7e658871-5d74-4f3a-8e19-1fea06507560"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Arles20085/AppBubo.git&quot;,
+    &quot;accountId&quot;: &quot;7e658871-5d74-4f3a-8e19-1fea06507560&quot;
   }
-}]]></component>
+}</component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -62,99 +63,99 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.052192994964273" />
-      <entry key="MS500" value="1.554016173932463" />
-      <entry key="S2" value="1.8627413523853693" />
-      <entry key="S5" value="1.9432263618808545" />
-      <entry key="S10" value="1.9948407712922838" />
-      <entry key="S30" value="2.358556152003726" />
-      <entry key="S60" value="3.5031221742797367" />
-      <entry key="M2" value="6.681758667942626" />
-      <entry key="M5" value="13.19493118249061" />
-      <entry key="M10" value="17.53921013655025" />
-      <entry key="M15" value="19.409988273666258" />
-      <entry key="M30" value="21.549184787188917" />
-      <entry key="H1" value="22.732662030594906" />
-      <entry key="H2" value="23.355449550148958" />
-      <entry key="H4" value="23.674952779602126" />
-      <entry key="D1" value="23.945435996802438" />
-      <entry key="W1" value="23.992195545614244" />
+      <entry key="MS100" value="1.0000000000000766" />
+      <entry key="MS500" value="1.0023824581865615" />
+      <entry key="S2" value="1.2686014512532173" />
+      <entry key="S5" value="2.2013846341093144" />
+      <entry key="S10" value="3.507724780386665" />
+      <entry key="S30" value="5.6943103068227945" />
+      <entry key="S60" value="7.629841121501974" />
+      <entry key="M2" value="12.825718878956046" />
+      <entry key="M5" value="23.9460950107609" />
+      <entry key="M10" value="31.725985892623935" />
+      <entry key="M15" value="35.7577904686726" />
+      <entry key="M30" value="41.992784886147376" />
+      <entry key="H1" value="46.874094473941106" />
+      <entry key="H2" value="50.35400545888021" />
+      <entry key="H4" value="55.650560007700236" />
+      <entry key="D1" value="86.05684811944504" />
+      <entry key="W1" value="100.94664703294605" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="8.604724398791676E-179" />
-      <entry key="MS500" value="2.4503794328715163E-36" />
-      <entry key="S2" value="1.6132991317211654E-9" />
-      <entry key="S5" value="4.96378105993783E-4" />
-      <entry key="S10" value="0.0370224975877102" />
-      <entry key="S30" value="0.7135853496833546" />
-      <entry key="S60" value="1.6673316729286762" />
-      <entry key="M2" value="2.7574563908489766" />
-      <entry key="M5" value="3.8900189731958137" />
-      <entry key="M10" value="4.400116704408515" />
-      <entry key="M15" value="4.589243390494518" />
-      <entry key="M30" value="4.788971136286809" />
-      <entry key="H1" value="4.893027273411186" />
-      <entry key="H2" value="4.9461431832530005" />
-      <entry key="H4" value="4.972978232198467" />
-      <entry key="D1" value="4.995483341599659" />
-      <entry key="W1" value="4.999354443136916" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="2.12189730468601E-271" />
+      <entry key="M2" value="9.836935715603949E-136" />
+      <entry key="M5" value="2.5756816964319128E-54" />
+      <entry key="M10" value="3.580423768716397E-27" />
+      <entry key="M15" value="3.9999501770966555E-18" />
+      <entry key="M30" value="4.4709412682416555E-9" />
+      <entry key="H1" value="1.4950510047277422E-4" />
+      <entry key="H2" value="0.027340463365553586" />
+      <entry key="H4" value="0.36973124348078534" />
+      <entry key="D1" value="3.2393343819902674" />
+      <entry key="W1" value="4.699367346448222" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8615346074049184" />
-      <entry key="MS500" value="1.4817171722524138" />
-      <entry key="S2" value="1.8394391265606307" />
-      <entry key="S5" value="1.9336612011237486" />
-      <entry key="S10" value="2.0182597103200712" />
-      <entry key="S30" value="3.0043386063297826" />
-      <entry key="S60" value="5.082221539277049" />
-      <entry key="M2" value="9.356798414808205" />
-      <entry key="M5" value="17.0318247837136" />
-      <entry key="M10" value="21.90733324366377" />
-      <entry key="M15" value="23.97645287360302" />
-      <entry key="M30" value="26.325967591341364" />
-      <entry key="H1" value="27.6193800007295" />
-      <entry key="H2" value="28.29838222601428" />
-      <entry key="H4" value="28.646311525476847" />
-      <entry key="D1" value="28.940647423984927" />
-      <entry key="W1" value="28.991511094547366" />
+      <entry key="MS100" value="0.4061261981781901" />
+      <entry key="MS500" value="0.8374440897042053" />
+      <entry key="S2" value="1.2221731036638814" />
+      <entry key="S5" value="2.16852577094779" />
+      <entry key="S10" value="3.477310849598189" />
+      <entry key="S30" value="5.675573971294187" />
+      <entry key="S60" value="7.614560952920999" />
+      <entry key="M2" value="12.807128725090658" />
+      <entry key="M5" value="23.92808178863073" />
+      <entry key="M10" value="31.713133071143094" />
+      <entry key="M15" value="35.747935854570294" />
+      <entry key="M30" value="41.986918745145424" />
+      <entry key="H1" value="46.87096169354019" />
+      <entry key="H2" value="50.37957052342912" />
+      <entry key="H4" value="56.01923011424298" />
+      <entry key="D1" value="89.2958035016385" />
+      <entry key="W1" value="105.64594577884213" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3LYw72UEL2rmjHZ7U1iFbta1T0H" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Tomcat Server.Tomcat 10.1.59.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.59.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\davil\OneDrive\Escritorio\Proyecto AppBubo\APP_BUBO\src\main\webapp" />
