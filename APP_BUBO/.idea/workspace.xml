@@ -11,9 +11,10 @@
   <component name="ChangeListManager">
     <list default="true" id="33ed3f98-0992-466f-a909-fa96f1737041" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Buba/index_buba.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Buba_admin/index_buba.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Bubo/index_buba.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Bubo_client/index_buba.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Buba_admin/index_buba.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/admin/panel.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Bubo_client/index_buba.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/cliente/index_buba.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BD/ticketera_bd.mwb" beforeDir="false" afterPath="$PROJECT_DIR$/../BD/ticketera_bd.mwb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,61 +64,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000000766" />
-      <entry key="MS500" value="1.0023824581865615" />
-      <entry key="S2" value="1.2686014512532173" />
-      <entry key="S5" value="2.2013846341093144" />
-      <entry key="S10" value="3.507724780386665" />
-      <entry key="S30" value="5.6943103068227945" />
-      <entry key="S60" value="7.629841121501974" />
-      <entry key="M2" value="12.825718878956046" />
-      <entry key="M5" value="23.9460950107609" />
-      <entry key="M10" value="31.725985892623935" />
-      <entry key="M15" value="35.7577904686726" />
-      <entry key="M30" value="41.992784886147376" />
-      <entry key="H1" value="46.874094473941106" />
-      <entry key="H2" value="50.35400545888021" />
-      <entry key="H4" value="55.650560007700236" />
-      <entry key="D1" value="86.05684811944504" />
-      <entry key="W1" value="100.94664703294605" />
+      <entry key="MS100" value="1.0148849687199872" />
+      <entry key="MS500" value="1.4360416582169115" />
+      <entry key="S2" value="2.301093118383452" />
+      <entry key="S5" value="3.427070213176618" />
+      <entry key="S10" value="4.35643336512899" />
+      <entry key="S30" value="6.552520832943641" />
+      <entry key="S60" value="9.417726936189265" />
+      <entry key="M2" value="13.442575828364724" />
+      <entry key="M5" value="19.913219474208216" />
+      <entry key="M10" value="27.406284292428957" />
+      <entry key="M15" value="33.260162858089366" />
+      <entry key="M30" value="43.655556419190034" />
+      <entry key="H1" value="53.1664968542722" />
+      <entry key="H2" value="65.66697135613482" />
+      <entry key="H4" value="83.03456327879907" />
+      <entry key="D1" value="136.83554134109795" />
+      <entry key="W1" value="161.78739094831147" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="2.12189730468601E-271" />
-      <entry key="M2" value="9.836935715603949E-136" />
-      <entry key="M5" value="2.5756816964319128E-54" />
-      <entry key="M10" value="3.580423768716397E-27" />
-      <entry key="M15" value="3.9999501770966555E-18" />
-      <entry key="M30" value="4.4709412682416555E-9" />
-      <entry key="H1" value="1.4950510047277422E-4" />
-      <entry key="H2" value="0.027340463365553586" />
-      <entry key="H4" value="0.36973124348078534" />
-      <entry key="D1" value="3.2393343819902674" />
-      <entry key="W1" value="4.699367346448222" />
+      <entry key="MS100" value="7.829317680773174E-238" />
+      <entry key="MS500" value="3.7909214269249855E-48" />
+      <entry key="S2" value="1.395359764225988E-12" />
+      <entry key="S5" value="1.8108166468147786E-5" />
+      <entry key="S10" value="0.004255369134181873" />
+      <entry key="S30" value="0.16204877277316876" />
+      <entry key="S60" value="0.4025528198549462" />
+      <entry key="M2" value="0.6344705035342039" />
+      <entry key="M5" value="0.8336131840943025" />
+      <entry key="M10" value="0.9130241968832495" />
+      <entry key="M15" value="0.9411413569509645" />
+      <entry key="M30" value="0.9701244028262005" />
+      <entry key="H1" value="0.9849534537484588" />
+      <entry key="H2" value="0.9971996078776625" />
+      <entry key="H4" value="1.1503850921477459" />
+      <entry key="D1" value="3.7992589199960918" />
+      <entry key="W1" value="5.602416497859067" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.4061261981781901" />
-      <entry key="MS500" value="0.8374440897042053" />
-      <entry key="S2" value="1.2221731036638814" />
-      <entry key="S5" value="2.16852577094779" />
-      <entry key="S10" value="3.477310849598189" />
-      <entry key="S30" value="5.675573971294187" />
-      <entry key="S60" value="7.614560952920999" />
-      <entry key="M2" value="12.807128725090658" />
-      <entry key="M5" value="23.92808178863073" />
-      <entry key="M10" value="31.713133071143094" />
-      <entry key="M15" value="35.747935854570294" />
-      <entry key="M30" value="41.986918745145424" />
-      <entry key="H1" value="46.87096169354019" />
-      <entry key="H2" value="50.37957052342912" />
-      <entry key="H4" value="56.01923011424298" />
-      <entry key="D1" value="89.2958035016385" />
-      <entry key="W1" value="105.64594577884213" />
+      <entry key="MS100" value="0.19888412099783023" />
+      <entry key="MS500" value="0.7357418244468673" />
+      <entry key="S2" value="1.6339968794961244" />
+      <entry key="S5" value="2.9763154550610076" />
+      <entry key="S10" value="4.069825717592959" />
+      <entry key="S30" value="6.586467684532009" />
+      <entry key="S60" value="9.743273571875834" />
+      <entry key="M2" value="14.03081829655161" />
+      <entry key="M5" value="20.72453279809961" />
+      <entry key="M10" value="28.306189622221694" />
+      <entry key="M15" value="34.19142031564772" />
+      <entry key="M30" value="44.61962492432385" />
+      <entry key="H1" value="54.14785792753794" />
+      <entry key="H2" value="66.66196156016426" />
+      <entry key="H4" value="84.18351116434872" />
+      <entry key="D1" value="140.6343001586431" />
+      <entry key="W1" value="167.38971544163078" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -187,6 +188,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 10.1.59" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.59" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/buboAPP/login.jsp" />
       <deployment>
         <artifact name="APPBUBO:war exploded">
           <settings>
