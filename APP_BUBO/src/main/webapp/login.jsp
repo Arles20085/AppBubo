@@ -7,21 +7,22 @@
     <title> App Bubo - Tickets </title>
 </head>
 <body>
-    <h1 > LOGIN </h1>
+    <section class="login">
+        <h1 > LOGIN </h1>
 
-    <form action="admin/panel.jsp" method="get">
+        <form action="admin/panel.jsp" method="get">
 
-        <label for="user"> Usuario: </label><br>
-        <input type="text" id="user" name="nombre" value="" required><br>
+            <label for="user"> Usuario: </label><br>
+            <input type="text" id="user" name="nombre" value="" required><br>
 
-        <label for="passw"> Contraseña: </label><br>
-        <input type="password" id="passw" name="contrasena" value="" required><br> <br>
+            <label for="passw"> Contraseña: </label><br>
+            <input type="password" id="passw" name="contrasena" value="" required><br> <br>
 
-        <input type="submit" value="ENTRAR" >
-        <p>Usuario o contraseña incorrectos</p>
+            <input type="submit" value="ENTRAR" >
+            <p>Usuario o contraseña incorrectos</p>
 
-    </form>
-
+        </form>
+    </section>
 
 </body>
 </html>
